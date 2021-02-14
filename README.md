@@ -1,4 +1,4 @@
-# nolib
+# nolibc
 
 This is a set of include files to preprocess C files with minimal side effects.
 
